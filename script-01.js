@@ -13,26 +13,29 @@
 //
 
 // Declare a variable called message and assign it the value "Hello World"
+let  myWorld = "Hello World!";
+
 
 
 // Console log the message variable and check in your browser that you can
 // see "Hello World" is being output to the console
 // Note: Use your browser's developer tools to view the console
 
-
+console.log(myWorld);
 
 //
 // STEP B - Adding two numbers together
 //
 
 // Declare a variable called num1 and assign it the value 10 (note: it should be a number and not a string)
-
+let num1 = 10;
 
 // Declare a variable called num2 and assign it the value 50 (note: it also should be a number and not a string)
-
+let num2 = 50;
 
 // Decare a variable called numTotal and assign it the value of num1 added to num2
 
+let numTotal = num1 + num2; 
 
 // Console log the numTotal variable and check in your browser that you can
 // see 60 is being output to the console
